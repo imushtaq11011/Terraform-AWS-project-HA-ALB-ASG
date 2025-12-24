@@ -1,0 +1,18 @@
+# Local Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Crash log
+crash.log
+
+# Ignore override files that may contain sensitive data
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
